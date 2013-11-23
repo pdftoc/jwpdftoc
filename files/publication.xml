@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+<language name="English" lang="en">
+	<book>
+		<name>New World Translation of the Holy Scriptures (2013 Revision)</name>
+		<url>http://assets.jw.org/assets/a/nwt/nwt_E/nwt_E.pdf</url>
+	</book>
+	<book>
+		<name>New World Translation of the Holy Scriptures (1984 Edition)</name>
+		<url>http://download.jw.org/files/media_bible/4f/bi12_E.pdf</url>
+	</book>
+	<book>
+		<name>Benefit From Theocratic Ministry School Education</name>
+		<url>http://download.jw.org/files/media_books/42/be_E.pdf</url>
+	</book>
+	<book>
+		<name>What Does the Bible Really Teach?</name>
+		<url>http://download.jw.org/files/media_books/97/bh_E.pdf</url>
+	</book>
+	<book>
+		<name>What Does the Bible Really Teach?--Large Print</name>
+		<url>http://download.jw.org/files/media_books/ae/bhlp_E.pdf</url>
+	</book>
+	<book>
+		<name>"Bearing Thorough Witness" About God's Kingdom</name>
+		<url>http://download.jw.org/files/media_books/02/bt_E.pdf</url>
+	</book>
+	<book>
+		<name>"Come Be My Follower"</name>
+		<url>http://download.jw.org/files/media_books/85/cf_E.pdf</url>
+	</book>
+	<book>
+		<name>Draw Close to Jehovah</name>
+		<url>http://download.jw.org/files/media_books/24/cl_E.pdf</url>
+	</book>
+	<book>
+		<name>The Secret of Family Happiness</name>
+		<url>http://download.jw.org/files/media_books/3a/fy_E.pdf</url>
+	</book>
+	<book>
+		<name>The Greatest Man Who Ever Lived</name>
+		<url>http://download.jw.org/files/media_books/9a/gt_E.pdf</url>
+	</book>
+	<book>
+		<name>God's Word for Us Through Jeremiah</name>
+		<url>http://download.jw.org/files/media_books/10/jr_E.pdf</url>
+	</book>
+	<book>
+		<name>Learn From the Great Teacher</name>
+		<url>http://download.jw.org/files/media_books/2d/lr_E.pdf</url>
+	</book>
+	<book>
+		<name>"Keep Yourselves in God's Love"</name>
+		<url>http://download.jw.org/files/media_books/85/lv_E.pdf</url>
+	</book>
+	<book>
+		<name>My Book of Bible Stories</name>
+		<url>http://download.jw.org/files/media_books/28/my_E.pdf</url>
+	</book>
+	<book>
+		<name>Sing to Jehovah</name>
+		<url>http://download.jw.org/files/media_books/de/sn_E.pdf</url>
+	</book>
+	<book>
+		<name>Sing to Jehovah--Lyrics Only, Large Print</name>
+		<url>http://download.jw.org/files/media_books/19/snylp_E.pdf</url>
+	</book>
+	<book>
+		<name>Sing to Jehovah--Sheet Music With Simplified Chords</name>
+		<url>http://download.jw.org/files/media_books/36/snsm_E.pdf</url>
+	</book>
+	<book>
+		<name>Questions Young People Ask--Answers That Work, Volume 1</name>
+		<url>http://download.jw.org/files/media_books/f5/yp1_E.pdf</url>
+	</book>
+	<book>
+		<name>Questions Young People Ask--Answers That Work, Volume 2</name>
+		<url>http://download.jw.org/files/media_books/5e/yp2_E.pdf</url>
+	</book>
+</language>
+<language name="日本語(Japanese)" lang="ja">
+	<book>
+		<name>新世界訳聖書（ソフトカバー版）</name>
+		<url>http://download.jw.org/files/media_bible/67/bi12_J.pdf</url>
+	</book>
+	<book>
+		<name>神権宣教学校の教育から益を得る</name>
+		<url>http://download.jw.org/files/media_books/c9/be_J.pdf</url>
+	</book>
+	<book>
+		<name>聖書は実際に何を教えていますか</name>
+		<url>http://download.jw.org/files/media_books/7d/bh_J.pdf</url>
+	</book>
+	<book>
+		<name>聖書は実際に何を教えていますか―大文字版</name>
+		<url>http://download.jw.org/files/media_books/f0/bhlp_J.pdf</url>
+	</book>
+	<book>
+		<name>神の王国について『徹底的な証しをする』</name>
+		<url>http://download.jw.org/files/media_books/0c/bt_J.pdf</url>
+	</book>
+	<book>
+		<name>「来て，わたしの追随者になりなさい」</name>
+		<url>http://download.jw.org/files/media_books/fb/cf_J.pdf</url>
+	</book>
+	<book>
+		<name>エホバに近づきなさい</name>
+		<url>http://download.jw.org/files/media_books/d0/cl_J.pdf</url>
+	</book>
+	<book>
+		<name>幸せな家庭を築く秘訣</name>
+		<url>http://download.jw.org/files/media_books/d2/fy_J.pdf</url>
+	</book>
+	<book>
+		<name>これまでに生存した最も偉大な人</name>
+		<url>http://download.jw.org/files/media_books/a5/gt_J.pdf</url>
+	</book>
+	<book>
+		<name>わたしたちに対する神の言葉―エレミヤを通して</name>
+		<url>http://download.jw.org/files/media_books/68/jr_J.pdf</url>
+	</book>
+	<book>
+		<name>偉大な教え手から学ぶ</name>
+		<url>http://download.jw.org/files/media_books/1b/lr_J.pdf</url>
+	</book>
+	<book>
+		<name>「自分を神の愛のうちに保ちなさい」</name>
+		<url>http://download.jw.org/files/media_books/07/lv_J.pdf</url>
+	</book>
+	<book>
+		<name>わたしの聖書物語の本</name>
+		<url>http://download.jw.org/files/media_books/61/my_J.pdf</url>
+	</book>
+	<book>
+		<name>エホバに歌う</name>
+		<url>http://download.jw.org/files/media_books/d4/sn_J.pdf</url>
+	</book>
+	<book>
+		<name>エホバに歌う―歌詞のみ，大文字版</name>
+		<url>http://download.jw.org/files/media_books/63/snylp_J.pdf</url>
+	</book>
+	<book>
+		<name>若い人が尋ねる質問―実際に役立つ答え，第1巻</name>
+		<url>http://download.jw.org/files/media_books/59/yp1_J.pdf</url>
+	</book>
+	<book>
+		<name>若い人が尋ねる質問―実際に役立つ答え，第2巻</name>
+		<url>http://download.jw.org/files/media_books/7a/yp2_J.pdf</url>
+	</book>
+</language>
+</root>
