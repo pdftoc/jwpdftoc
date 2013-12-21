@@ -108,8 +108,13 @@ namespace jwpubtoc
                     book_index = PublicationListView.SelectedItems[0].Index;
                 }
             }
+            open_output_dir(languageBookList[langage_index][book_index]["pdf"]);
+        }
+
+        private void open_output_dir(string filename)
+        {
             string arg = "";
-            string pdf = dest_path + "\\" + languageBookList[langage_index][book_index]["pdf"];
+            string pdf = dest_path + "\\" + filename;
             if (File.Exists(pdf))
             {
                 arg = "/select,\"" + pdf + "\"";
@@ -633,7 +638,7 @@ namespace jwpubtoc
                 if (result == 0)
                 {
                     toolStripStatusLabel1.Text = "Convert complete.";
-                    load_publication();
+                    open_output_dir("");
                 }
                 else if (result == 1)
                 {
