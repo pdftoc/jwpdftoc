@@ -20,6 +20,10 @@ namespace jwpubtoc
     public partial class MainForm : Form
     {
         private static string app_path;
+        private static string src_path;
+        private static string dest_path;
+        private static string toc_path;
+        private static string tmp_path;
         private List<Dictionary<string, string>> languageList;
         private List<List<Dictionary<string, string>>> languageBookList;
 
@@ -38,6 +42,10 @@ namespace jwpubtoc
         private void MainForm_Load(object sender, EventArgs e)
         {
             app_path = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
+            src_path = app_path + "\\jw_org";
+            dest_path = app_path + "\\output";
+            toc_path = app_path + "\\toc";
+            tmp_path = app_path + "\\tmp";
             languageList = new List<Dictionary<string, string>>();
             languageBookList = new List<List<Dictionary<string, string>>>();
 
@@ -69,14 +77,14 @@ namespace jwpubtoc
                 }
             }
             string arg = "";
-            string pdf = app_path + "\\output\\" + languageBookList[langage_index][book_index]["pdf"];
+            string pdf = dest_path + "\\" + languageBookList[langage_index][book_index]["pdf"];
             if (File.Exists(pdf))
             {
                 arg = "/select,\"" + pdf + "\"";
             }
             else
             {
-                arg = "\"" + app_path + "\\output\"";
+                arg = "\"" + dest_path + "\"";
             }
             Process.Start("explorer.exe", arg);
         }
@@ -119,9 +127,9 @@ namespace jwpubtoc
 
             try
             {
-                if (File.Exists(app_path + "\\jw_org\\" + download_filename))
+                if (File.Exists(src_path + "\\" + download_filename))
                 {
-                    DateTime cur = File.GetLastWriteTime(app_path + "\\jw_org\\" + download_filename);
+                    DateTime cur = File.GetLastWriteTime(src_path + "\\" + download_filename);
                     int a = cur.CompareTo(download_lastmodified);
                     if (cur.CompareTo(download_lastmodified) >= 0)
                     {
@@ -173,12 +181,12 @@ namespace jwpubtoc
 
             try
             {
-                if (!File.Exists(app_path + "\\jw_org\\" + src))
+                if (!File.Exists(src_path + "\\" + src))
                 {
                     MessageBox.Show("Source file not found.");
                     return;
                 }
-                if (!File.Exists(app_path + "\\toc\\" + toc))
+                if (!File.Exists(toc_path + "\\" + toc))
                 {
                     MessageBox.Show("TOC file not found.");
                     return;
@@ -212,17 +220,17 @@ namespace jwpubtoc
 
         private void init_dir()
         {
-            if (!Directory.Exists(app_path + "\\jw_org"))
+            if (!Directory.Exists(src_path))
             {
-                Directory.CreateDirectory(app_path + "\\jw_org");
+                Directory.CreateDirectory(src_path);
             }
-            if (!Directory.Exists(app_path + "\\tmp"))
+            if (!Directory.Exists(tmp_path))
             {
-                Directory.CreateDirectory(app_path + "\\tmp");
+                Directory.CreateDirectory(tmp_path);
             }
-            if (!Directory.Exists(app_path + "\\output"))
+            if (!Directory.Exists(dest_path))
             {
-                Directory.CreateDirectory(app_path + "\\output");
+                Directory.CreateDirectory(dest_path);
             }
         }
 
@@ -290,19 +298,19 @@ namespace jwpubtoc
         private void post_jpdfbookmarks_download()
         {
             // extract
-            ZipFile zip = new ZipFile(app_path + "\\tmp\\jpdfbookmarks-2.5.2.zip");
-            zip.ExtractAll(app_path + "\\tmp", ExtractExistingFileAction.OverwriteSilently);
+            ZipFile zip = new ZipFile(tmp_path + "\\jpdfbookmarks-2.5.2.zip");
+            zip.ExtractAll(tmp_path, ExtractExistingFileAction.OverwriteSilently);
             zip.Dispose();
-            Directory.Move(app_path + "\\tmp\\jpdfbookmarks-2.5.2", app_path + "\\jpdfbookmarks");
+            Directory.Move(tmp_path + "\\jpdfbookmarks-2.5.2", app_path + "\\jpdfbookmarks");
         }
 
         private void post_pdf_download()
         {
-            if (File.Exists(app_path + "\\jw_org\\" + download_filename))
+            if (File.Exists(src_path + "\\" + download_filename))
             {
-                File.Delete(app_path + "\\jw_org\\" + download_filename);
+                File.Delete(src_path + "\\" + download_filename);
             }
-            File.Move(app_path + "\\tmp\\" + download_filename, app_path + "\\jw_org\\" + download_filename);
+            File.Move(tmp_path + "\\" + download_filename, src_path + "\\" + download_filename);
         }
 
         private int read_xml()
@@ -432,19 +440,19 @@ namespace jwpubtoc
                 string dest = book["pdf"];
 
                 // check toc file
-                if (!File.Exists(app_path + "\\toc\\" + toc))
+                if (!File.Exists(toc_path + "\\" + toc))
                 {
                     toc = "Not Found";
                 }
 
                 // check source file
-                if (!File.Exists(app_path + "\\jw_org\\" + src))
+                if (!File.Exists(src_path + "\\" + src))
                 {
                     src = "Not Found";
                 }
 
                 // check destination file
-                if (!File.Exists(app_path + "\\output\\" + dest))
+                if (!File.Exists(dest_path + "\\" + dest))
                 {
                     dest = "Not Found";
                 }
@@ -491,10 +499,10 @@ namespace jwpubtoc
             bgWorker.ReportProgress(0); // "Converting..."
 
             string jpdfboomarks = app_path + "\\jpdfbookmarks\\jpdfbookmarks_cli.exe";
-            string src_file = app_path + "\\jw_org\\" + src;
-            string dest_file = app_path + "\\output\\" + dest;
-            string toc_file = app_path + "\\toc\\" + toc;
-            string tmp_file = app_path + "\\tmp\\" + dest;
+            string src_file = src_path + "\\" + src;
+            string dest_file = dest_path + "\\" + dest;
+            string toc_file = toc_path + "\\" + toc;
+            string tmp_file = tmp_path + "\\" + dest;
 
             if (!File.Exists(jpdfboomarks))
             {
@@ -608,7 +616,7 @@ namespace jwpubtoc
                 HttpWebRequest webreq = (HttpWebRequest)WebRequest.Create(url);
                 HttpWebResponse webres = (HttpWebResponse)webreq.GetResponse();
                 Stream st = webres.GetResponseStream();
-                FileStream fs = new FileStream(app_path + "\\tmp\\" + download_filename, FileMode.Create);
+                FileStream fs = new FileStream(tmp_path + "\\" + download_filename, FileMode.Create);
                 //requestData = new System.IO.MemoryStream();
                 byte[] bufferData = new byte[1024];
                 int readSize;
@@ -648,13 +656,13 @@ namespace jwpubtoc
 
                 st.Close();
 
-                //FileStream fs = new FileStream(app_path + "\\tmp\\" + download_filename, FileMode.Create);
+                //FileStream fs = new FileStream(tmp_path + "\\" + download_filename, FileMode.Create);
                 //byte[] bytes = new byte[requestData.Length];
                 //requestData.Seek(0, SeekOrigin.Begin);
                 //requestData.Read(bytes, 0, bytes.Length);
                 //fs.Write(bytes, 0, bytes.Length);
                 fs.Close();
-                File.SetLastWriteTime(app_path + "\\tmp\\" + download_filename, download_lastmodified);
+                File.SetLastWriteTime(tmp_path + "\\" + download_filename, download_lastmodified);
 
                 //requestData.Close();
                 webres.Close();
