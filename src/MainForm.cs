@@ -193,6 +193,12 @@ namespace jwpubtoc
                 return;
             }
 
+            bool use_name = true;
+            if ((Control.ModifierKeys & Keys.Shift) == Keys.Shift)
+            {
+                use_name = false;
+            }
+
             int langage_index = LanguageComboBox.SelectedIndex;
             if (langage_index < 0)
             {
@@ -210,6 +216,10 @@ namespace jwpubtoc
             string src = languageBookList[langage_index][book_index]["pdf"];
             string toc = languageBookList[langage_index][book_index]["txt"];
             string dest = languageBookList[langage_index][book_index]["pdf"];
+            if (use_name)
+            {
+                dest = languageBookList[langage_index][book_index]["name"] + ".pdf";
+            }
 
             try
             {
