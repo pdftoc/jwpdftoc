@@ -55,11 +55,13 @@
             this.PublicationListView.GridLines = true;
             this.PublicationListView.HideSelection = false;
             this.PublicationListView.Location = new System.Drawing.Point(15, 50);
+            this.PublicationListView.MultiSelect = false;
             this.PublicationListView.Name = "PublicationListView";
             this.PublicationListView.Size = new System.Drawing.Size(560, 250);
             this.PublicationListView.TabIndex = 1;
             this.PublicationListView.UseCompatibleStateImageBehavior = false;
             this.PublicationListView.View = System.Windows.Forms.View.Details;
+            this.PublicationListView.SelectedIndexChanged += new System.EventHandler(this.PublicationListView_SelectedIndexChanged);
             this.PublicationListView.DoubleClick += new System.EventHandler(this.PublicationListView_DoubleClick);
             // 
             // DownloadButton

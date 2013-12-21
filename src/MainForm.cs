@@ -65,6 +65,38 @@ namespace jwpubtoc
             load_publication();
         }
 
+        private void PublicationListView_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int langage_index = LanguageComboBox.SelectedIndex;
+            int book_index = -1;
+            if (langage_index >= 0)
+            {
+                if (PublicationListView.SelectedItems.Count > 0)
+                {
+                    book_index = PublicationListView.SelectedItems[0].Index;
+                }
+            }
+            if (book_index == -1)
+            {
+                DisableTocButton();
+            }
+            else
+            {
+                if (!File.Exists(toc_path + "\\" + languageBookList[langage_index][book_index]["txt"]))
+                {
+                    DisableTocButton();
+                }
+                else if (!File.Exists(src_path + "\\" + languageBookList[langage_index][book_index]["pdf"]))
+                {
+                    DisableTocButton();
+                }
+                else
+                {
+                    EnableTocButton();
+                }
+            }
+        }
+
         private void PublicationListView_DoubleClick(object sender, EventArgs e)
         {
             int langage_index = LanguageComboBox.SelectedIndex;
@@ -144,9 +176,9 @@ namespace jwpubtoc
                 Debug.WriteLine("Source:" + ex.Source);
                 Debug.WriteLine("Message:" + ex.Message);
             }
-            
-            DownloadButton.Enabled = false;
-            TocButton.Enabled = false;
+
+            DisableDownloadButton();
+            DisableTocButton();
 
             download_filetype = 2;
             DownloadBackgroundWorker.WorkerReportsProgress = true;
@@ -204,8 +236,8 @@ namespace jwpubtoc
                 return;
             }
 
-            DownloadButton.Enabled = false;
-            TocButton.Enabled = false;
+            DisableDownloadButton();
+            DisableTocButton();
 
             List<string> param = new List<string>();
             param.Add(app_path);
@@ -247,8 +279,8 @@ namespace jwpubtoc
                 return 0;
             }
 
-            DownloadButton.Enabled = false;
-            TocButton.Enabled = false;
+            DisableDownloadButton();
+            DisableTocButton();
 
             // download
             string url = "http://sourceforge.net/projects/jpdfbookmarks/files/JPdfBookmarks-2.5.2/jpdfbookmarks-2.5.2.zip/download";
@@ -601,8 +633,8 @@ namespace jwpubtoc
 
             load_publication();
 
-            DownloadButton.Enabled = true;
-            TocButton.Enabled = true;
+            EnableDownloadButton();
+            EnableTocButton();
         }
 
         private void DownloadBackgroundWorker_DoWork(object sender, DoWorkEventArgs e)
@@ -724,8 +756,8 @@ namespace jwpubtoc
                     MessageBox.Show("Download " + download_filename + " failed.");
                 }
             }
-            DownloadButton.Enabled = true;
-            TocButton.Enabled = true;
+            EnableDownloadButton();
+            EnableTocButton();
         }
 
         private void MainForm_KeyDown(object sender, KeyEventArgs e)
@@ -734,6 +766,26 @@ namespace jwpubtoc
             {
                 load_publication();
             }
+        }
+
+        private void EnableDownloadButton()
+        {
+            DownloadButton.Enabled = true;
+        }
+
+        private void DisableDownloadButton()
+        {
+            DownloadButton.Enabled = false;
+        }
+
+        private void EnableTocButton()
+        {
+            TocButton.Enabled = true;
+        }
+
+        private void DisableTocButton()
+        {
+            TocButton.Enabled = false;
         }
 
     }
