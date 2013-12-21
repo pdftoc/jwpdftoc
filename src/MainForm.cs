@@ -450,16 +450,19 @@ namespace jwpubtoc
             column_toc.Text = "TOC File";
             column_dest.Text = "Destination";
 #if true
-            column_book.Width = 320;
-            column_src.Width = 78;
-            column_toc.Width = 78;
-            column_dest.Width = 78;
+            column_book.Width = 350;
+            column_src.Width = 50;
+            column_toc.Width = 60;
+            column_dest.Width = 75;
 #else
             column_book.Width = -2;
-            column_download.Width = -2;
+            column_src.Width = -2;
             column_toc.Width = -2;
-            column_convet.Width = -2;
+            column_dest.Width = -2;
 #endif
+            column_src.TextAlign = HorizontalAlignment.Center;
+            column_toc.TextAlign = HorizontalAlignment.Center;
+            column_dest.TextAlign = HorizontalAlignment.Center;
             ColumnHeader[] colHeaderRegValue = { column_book, column_src, column_toc, column_dest };
             PublicationListView.Columns.AddRange(colHeaderRegValue);
         }
@@ -477,26 +480,27 @@ namespace jwpubtoc
             PublicationListView.Items.Clear();
             foreach (Dictionary<string, string> book in languageBookList[langage_index])
             {
-                string toc = book["txt"];
-                string src = book["pdf"];
-                string dest = book["pdf"];
+                string toc = "o";
+                string src = "o";
+                string dest = "o";
 
                 // check toc file
-                if (!File.Exists(toc_path + "\\" + toc))
+                if (!File.Exists(toc_path + "\\" + book["txt"]))
                 {
-                    toc = "Not Found";
+                    toc = "x";
                 }
 
                 // check source file
-                if (!File.Exists(src_path + "\\" + src))
+                if (!File.Exists(src_path + "\\" + book["pdf"]))
                 {
-                    src = "Not Found";
+                    src = "x";
                 }
 
                 // check destination file
-                if (!File.Exists(dest_path + "\\" + dest))
+                if (!File.Exists(dest_path + "\\" + book["pdf"]) &&
+                    !File.Exists(dest_path + "\\" + book["name"] + ".pdf"))
                 {
-                    dest = "Not Found";
+                    dest = "x";
                 }
 
                 ListViewItem item = new ListViewItem(new string[] { book["name"], src, toc, dest });
