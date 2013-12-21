@@ -137,7 +137,6 @@ namespace jwpubtoc
                 Debug.WriteLine("Message:" + ex.Message);
             }
             
-            RefreshButton.Enabled = false;
             DownloadButton.Enabled = false;
             TocButton.Enabled = false;
 
@@ -197,7 +196,6 @@ namespace jwpubtoc
                 return;
             }
 
-            RefreshButton.Enabled = false;
             DownloadButton.Enabled = false;
             TocButton.Enabled = false;
 
@@ -241,7 +239,6 @@ namespace jwpubtoc
                 return 0;
             }
 
-            RefreshButton.Enabled = false;
             DownloadButton.Enabled = false;
             TocButton.Enabled = false;
 
@@ -596,7 +593,6 @@ namespace jwpubtoc
 
             load_publication();
 
-            RefreshButton.Enabled = true;
             DownloadButton.Enabled = true;
             TocButton.Enabled = true;
         }
@@ -720,9 +716,16 @@ namespace jwpubtoc
                     MessageBox.Show("Download " + download_filename + " failed.");
                 }
             }
-            RefreshButton.Enabled = true;
             DownloadButton.Enabled = true;
             TocButton.Enabled = true;
+        }
+
+        private void MainForm_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.F5)
+            {
+                load_publication();
+            }
         }
 
     }

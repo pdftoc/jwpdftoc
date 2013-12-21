@@ -30,7 +30,6 @@
         {
             this.LanguageComboBox = new System.Windows.Forms.ComboBox();
             this.PublicationListView = new System.Windows.Forms.ListView();
-            this.RefreshButton = new System.Windows.Forms.Button();
             this.DownloadButton = new System.Windows.Forms.Button();
             this.TocButton = new System.Windows.Forms.Button();
             this.StatusStrip = new System.Windows.Forms.StatusStrip();
@@ -63,19 +62,9 @@
             this.PublicationListView.View = System.Windows.Forms.View.Details;
             this.PublicationListView.DoubleClick += new System.EventHandler(this.PublicationListView_DoubleClick);
             // 
-            // RefreshButton
-            // 
-            this.RefreshButton.Location = new System.Drawing.Point(100, 315);
-            this.RefreshButton.Name = "RefreshButton";
-            this.RefreshButton.Size = new System.Drawing.Size(100, 23);
-            this.RefreshButton.TabIndex = 2;
-            this.RefreshButton.Text = "Refresh";
-            this.RefreshButton.UseVisualStyleBackColor = true;
-            this.RefreshButton.Click += new System.EventHandler(this.RefreshButton_Click);
-            // 
             // DownloadButton
             // 
-            this.DownloadButton.Location = new System.Drawing.Point(250, 315);
+            this.DownloadButton.Location = new System.Drawing.Point(165, 315);
             this.DownloadButton.Name = "DownloadButton";
             this.DownloadButton.Size = new System.Drawing.Size(100, 23);
             this.DownloadButton.TabIndex = 3;
@@ -85,7 +74,7 @@
             // 
             // TocButton
             // 
-            this.TocButton.Location = new System.Drawing.Point(400, 315);
+            this.TocButton.Location = new System.Drawing.Point(330, 315);
             this.TocButton.Name = "TocButton";
             this.TocButton.Size = new System.Drawing.Size(100, 23);
             this.TocButton.TabIndex = 4;
@@ -127,14 +116,15 @@
             this.Controls.Add(this.StatusStrip);
             this.Controls.Add(this.TocButton);
             this.Controls.Add(this.DownloadButton);
-            this.Controls.Add(this.RefreshButton);
             this.Controls.Add(this.PublicationListView);
             this.Controls.Add(this.LanguageComboBox);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.KeyPreview = true;
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.Text = "JW PDF Publication TOC Maker";
             this.Load += new System.EventHandler(this.MainForm_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainForm_KeyDown);
             this.StatusStrip.ResumeLayout(false);
             this.StatusStrip.PerformLayout();
             this.ResumeLayout(false);
@@ -146,7 +136,6 @@
 
         private System.Windows.Forms.ComboBox LanguageComboBox;
         private System.Windows.Forms.ListView PublicationListView;
-        private System.Windows.Forms.Button RefreshButton;
         private System.Windows.Forms.Button DownloadButton;
         private System.Windows.Forms.Button TocButton;
         private System.Windows.Forms.StatusStrip StatusStrip;
