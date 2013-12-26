@@ -408,6 +408,7 @@ namespace jwpubtoc
                         }
                         book.Add("url", nodelist.Item(0).InnerText);
                         string file = Path.GetFileNameWithoutExtension(book["url"]);
+                        book.Add("sign", file);
                         book.Add("pdf", file + ".pdf");
                         book.Add("txt", file + ".txt");
 
@@ -446,19 +447,22 @@ namespace jwpubtoc
         private void init_publication()
         {
             ColumnHeader column_book = new ColumnHeader();
+            ColumnHeader column_sign = new ColumnHeader();
             ColumnHeader column_src = new ColumnHeader();
             ColumnHeader column_toc = new ColumnHeader();
             ColumnHeader column_dest = new ColumnHeader();
 
             column_book.Text = "Publication";
-            column_src.Text = "Source";
-            column_toc.Text = "TOC File";
-            column_dest.Text = "Destination";
+            column_sign.Text = "Sign";
+            column_src.Text = "Orig";
+            column_toc.Text = "TOC text";
+            column_dest.Text = "Output";
 #if true
-            column_book.Width = 350;
-            column_src.Width = 50;
+            column_book.Width = 330;
+            column_sign.Width = 60;
+            column_src.Width = 40;
             column_toc.Width = 60;
-            column_dest.Width = 75;
+            column_dest.Width = 50;
 #else
             column_book.Width = -2;
             column_src.Width = -2;
@@ -468,7 +472,7 @@ namespace jwpubtoc
             column_src.TextAlign = HorizontalAlignment.Center;
             column_toc.TextAlign = HorizontalAlignment.Center;
             column_dest.TextAlign = HorizontalAlignment.Center;
-            ColumnHeader[] colHeaderRegValue = { column_book, column_src, column_toc, column_dest };
+            ColumnHeader[] colHeaderRegValue = { column_book, column_sign, column_src, column_toc, column_dest };
             PublicationListView.Columns.AddRange(colHeaderRegValue);
         }
 
@@ -508,7 +512,7 @@ namespace jwpubtoc
                     dest = "x";
                 }
 
-                ListViewItem item = new ListViewItem(new string[] { book["name"], src, toc, dest });
+                ListViewItem item = new ListViewItem(new string[] { book["name"], book["sign"], src, toc, dest });
                 PublicationListView.Items.Add(item);
             }
 
