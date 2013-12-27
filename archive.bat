@@ -1,6 +1,6 @@
 @echo off
 
-set dest=jwpdctoc
+set dest=jwpdftoc
 
 if exist %dest% goto build
 mkdir %dest%
