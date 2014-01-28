@@ -557,7 +557,7 @@ namespace jwpubtoc
             string src_file = src_path + "\\" + src;
             string dest_file = dest_path + "\\" + dest;
             string toc_file = toc_path + "\\" + toc;
-            string tmp_file = tmp_path + "\\" + dest;
+            string tmp_file = tmp_path + "\\" + src;
 
             if (!File.Exists(jpdfboomarks))
             {
