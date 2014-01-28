@@ -57,12 +57,12 @@ namespace jwpubtoc
                 return;
             }
             load_language();
-            load_publication();
+            load_publication(false);
         }
 
         private void LanguageComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-            load_publication();
+            load_publication(false);
         }
 
         private void PublicationListView_SelectedIndexChanged(object sender, EventArgs e)
@@ -128,7 +128,7 @@ namespace jwpubtoc
 
         private void RefreshButton_Click(object sender, EventArgs e)
         {
-            load_publication();
+            load_publication(true);
         }
 
         private void DownloadButton_Click(object sender, EventArgs e)
@@ -477,13 +477,19 @@ namespace jwpubtoc
         }
 
         /* set publications to ListView */
-        private void load_publication()
+        private void load_publication(bool select)
         {
             int langage_index = LanguageComboBox.SelectedIndex;
             if (langage_index < 0)
             {
                 MessageBox.Show("Language is not selected.");
                 return;
+            }
+
+            int index = -1;
+            if (PublicationListView.SelectedItems.Count > 0)
+            {
+                index = PublicationListView.SelectedItems[0].Index;
             }
 
             PublicationListView.Items.Clear();
@@ -514,6 +520,11 @@ namespace jwpubtoc
 
                 ListViewItem item = new ListViewItem(new string[] { book["name"], book["sign"], src, toc, dest });
                 PublicationListView.Items.Add(item);
+            }
+
+            if (select && index > 0 && PublicationListView.Items.Count >= index)
+            {
+                PublicationListView.Items[index].Selected = true;
             }
 
             // PublicationListView.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
@@ -654,7 +665,7 @@ namespace jwpubtoc
                 }
             }
 
-            load_publication();
+            load_publication(true);
 
             EnableDownloadButton();
             EnableTocButton();
@@ -770,7 +781,7 @@ namespace jwpubtoc
                     else if (download_filetype == 2)
                     {
                         post_pdf_download();
-                        load_publication();
+                        load_publication(true);
                     }
                 }
                 else
@@ -787,7 +798,7 @@ namespace jwpubtoc
         {
             if (e.KeyCode == Keys.F5)
             {
-                load_publication();
+                load_publication(true);
             }
         }
 
