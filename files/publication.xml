@@ -42,6 +42,10 @@
 		<url>http://download.jw.org/files/media_books/9a/gt_E.pdf</url>
 	</book>
 	<book>
+		<name>Imitate Their Faith</name>
+		<url>http://download.jw.org/files/media_books/4f/ia_E.pdf</url>
+	</book>
+	<book>
 		<name>God's Word for Us Through Jeremiah</name>
 		<url>http://download.jw.org/files/media_books/10/jr_E.pdf</url>
 	</book>
@@ -80,7 +84,7 @@
 </language>
 <language name="日本語(Japanese)" lang="ja">
 	<book>
-		<name>新世界訳聖書（ソフトカバー版）</name>
+		<name>新世界訳聖書</name>
 		<url>http://download.jw.org/files/media_bible/67/bi12_J.pdf</url>
 	</book>
 	<book>
@@ -114,6 +118,10 @@
 	<book>
 		<name>これまでに生存した最も偉大な人</name>
 		<url>http://download.jw.org/files/media_books/a5/gt_J.pdf</url>
+	</book>
+	<book>
+		<name>その信仰に倣う</name>
+		<url>http://download.jw.org/files/media_books/a2/ia_J.pdf</url>
 	</book>
 	<book>
 		<name>わたしたちに対する神の言葉―エレミヤを通して</name>
