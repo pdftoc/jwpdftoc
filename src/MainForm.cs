@@ -628,6 +628,7 @@ namespace jwpubtoc
                 File.Delete(dest_file);
             }
             File.Move(tmp_file, dest_file);
+            File.SetLastWriteTime(dest_file, File.GetLastWriteTime(src_file));
 
             e.Result = 0;
         }
