@@ -82,6 +82,84 @@
 		<url>http://download.jw.org/files/media_books/5e/yp2_E.pdf</url>
 	</book>
 </language>
+<language name="Español(Spanish)" lang="es">
+	<book>
+		<name>Traducción del Nuevo Mundo de las Santas Escrituras</name>
+		<url>http://download.jw.org/files/media_bible/df/bi12_S.pdf</url>
+	</book>
+	<book>
+		<name>Benefíciese de la Escuela del Ministerio Teocrático</name>
+		<url>http://download.jw.org/files/media_books/ca/be_S.pdf</url>
+	</book>
+	<book>
+		<name>Qué enseña realmente la Biblia</name>
+		<url>http://download.jw.org/files/media_books/d9/bh_S.pdf</url>
+	</book>
+	<book>
+		<name>Qué enseña realmente la Biblia (letra grande)</name>
+		<url>http://download.jw.org/files/media_books/63/bhlp_S.pdf</url>
+	</book>
+	<book>
+		<name>Testimonio cabal del Reino de Dios</name>
+		<url>http://download.jw.org/files/media_books/02/bt_S.pdf</url>
+	</book>
+	<book>
+		<name>Ven, sé mi seguidor</name>
+		<url>http://download.jw.org/files/media_books/58/cf_S.pdf</url>
+	</book>
+	<book>
+		<name>Acerquémonos a Jehová</name>
+		<url>http://download.jw.org/files/media_books/90/cl_S.pdf</url>
+	</book>
+	<book>
+		<name>El secreto de la felicidad familiar</name>
+		<url>http://download.jw.org/files/media_books/d4/fy_S.pdf</url>
+	</book>
+	<book>
+		<name>El hombre más grande de todos los tiempos</name>
+		<url>http://download.jw.org/files/media_books/b5/gt_S.pdf</url>
+	</book>
+	<book>
+		<name>Ejemplos de fe</name>
+		<url>http://download.jw.org/files/media_books/be/ia_S.pdf</url>
+	</book>
+	<book>
+		<name>Dios nos habla mediante Jeremías</name>
+		<url>http://download.jw.org/files/media_books/37/jr_S.pdf</url>
+	</book>
+	<book>
+		<name>Aprendamos del Gran Maestro</name>
+		<url>http://download.jw.org/files/media_books/96/lr_S.pdf</url>
+	</book>
+	<book>
+		<name>Manténganse en el amor de Dios</name>
+		<url>http://download.jw.org/files/media_books/45/lv_S.pdf</url>
+	</book>
+	<book>
+		<name>Mi libro de historias bíblicas</name>
+		<url>http://download.jw.org/files/media_books/8b/my_S.pdf</url>
+	</book>
+	<book>
+		<name>Cantemos a Jehová</name>
+		<url>http://download.jw.org/files/media_books/96/sn_S.pdf</url>
+	</book>
+	<book>
+		<name>Cantemos a Jehová (edición grande sin partitura)</name>
+		<url>http://download.jw.org/files/media_books/29/snylp_S.pdf</url>
+	</book>
+	<book>
+		<name>Cantemos a Jehová (partituras con acordes simplificados)</name>
+		<url>http://download.jw.org/files/media_books/95/snsm_S.pdf</url>
+	</book>
+	<book>
+		<name>Lo que los jóvenes preguntan. Respuestas prácticas (volumen 1)</name>
+		<url>http://download.jw.org/files/media_books/71/yp1_S.pdf</url>
+	</book>
+	<book>
+		<name>Lo que los jóvenes preguntan. Respuestas prácticas (volumen 2)</name>
+		<url>http://download.jw.org/files/media_books/20/yp2_S.pdf</url>
+	</book>
+</language>
 <language name="日本語(Japanese)" lang="ja">
 	<book>
 		<name>新世界訳聖書</name>
