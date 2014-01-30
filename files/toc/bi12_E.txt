@@ -1251,7 +1251,7 @@ Revelation/1529
 	21/1548
 	22/1549
 Table of the Books of the Bible/1551
-Bibie Words Indexed/1553
+Bible Words Indexed/1553
 	A/1553
 	B/1558
 	C/1562
