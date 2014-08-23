@@ -355,7 +355,9 @@ namespace jwpubtoc
         {
             if (File.Exists(src_path + "\\" + download_filename))
             {
-                File.Delete(src_path + "\\" + download_filename);
+                DateTime dt = File.GetLastWriteTime(src_path + "\\" + download_filename);
+                string dest_filename = Path.GetFileNameWithoutExtension(download_filename) + "_" + dt.ToString("yyyyMMdd_HHmmss") + Path.GetExtension(download_filename);
+                File.Move(src_path + "\\" + download_filename, src_path + "\\" + dest_filename);
             }
             File.Move(tmp_path + "\\" + download_filename, src_path + "\\" + download_filename);
         }
