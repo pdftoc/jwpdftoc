@@ -82,7 +82,7 @@
 		<url>http://download.jw.org/files/media_books/5e/yp2_E.pdf</url>
 	</book>
 </language>
-<language name="Español(Spanish)" lang="es">
+<language name="Español/Spanish" lang="es">
 	<book>
 		<name>Traducción del Nuevo Mundo de las Santas Escrituras</name>
 		<url>http://download.jw.org/files/media_bible/df/bi12_S.pdf</url>
@@ -160,7 +160,7 @@
 		<url>http://download.jw.org/files/media_books/20/yp2_S.pdf</url>
 	</book>
 </language>
-<language name="日本語(Japanese)" lang="ja">
+<language name="日本語/Japanese" lang="ja">
 	<book>
 		<name>新世界訳聖書</name>
 		<url>http://download.jw.org/files/media_bible/67/bi12_J.pdf</url>
@@ -234,7 +234,7 @@
 		<url>http://download.jw.org/files/media_books/7a/yp2_J.pdf</url>
 	</book>
 </language>
-<language name="Việt Nam(Vietnamese)" lang="vi">
+<language name="Việt Nam/Vietnamese" lang="vi">
 	<book>
 		<name>Kinh Thánh—Bản dịch Thế Giới Mới (Ma-thi-ơ đến Khải huyền)</name>
 		<url>http://download.jw.org/files/media_bible/52/bi7_VT.pdf</url>
