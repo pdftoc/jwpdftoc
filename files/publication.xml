@@ -296,4 +296,102 @@
 		<url>http://download.jw.org/files/media_books/5c/yp_VT.pdf</url>
 	</book>
 </language>
+<language name="汉语（简化字）/Chinese (Simplified)" lang="zh-hans">
+	<book>
+		<name>《圣经新世界译本》</name>
+		<url>http://download.jw.org/files/media_bible/6e/bi12_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《圣经新世界译本》（大） - 汉语拼音</name>
+		<url>http://download.jw.org/files/media_bible/0d/bi8_s-Pi_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《神圣教育使你得益——传道训练班课本》</name>
+		<url>http://download.jw.org/files/media_books/83/be_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《辨明圣经的真理》</name>
+		<url>http://download.jw.org/files/media_books/94/bh_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《辨明圣经的真理》（大字本）</name>
+		<url>http://download.jw.org/files/media_books/fa/bhlp_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《辨明圣经的真理》（大字本） - 汉语拼音</name>
+		<url>http://download.jw.org/files/media_books/00/bhlp_s-Pi_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《辨明圣经的真理》（大字本） - 粤语拼音</name>
+		<url>http://download.jw.org/files/media_books/0f/bhlp_s-Csl_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《为上帝的王国彻底作见证》</name>
+		<url>http://download.jw.org/files/media_books/b2/bt_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《来跟随我吧》</name>
+		<url>http://download.jw.org/files/media_books/4f/cf_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《亲近耶和华》</name>
+		<url>http://download.jw.org/files/media_books/d4/cl_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《家庭幸福的秘诀》</name>
+		<url>http://download.jw.org/files/media_books/ce/fy_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《有史以来最伟大的人物》</name>
+		<url>http://download.jw.org/files/media_books/ee/gt_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《信心的榜样》</name>
+		<url>http://download.jw.org/files/media_books/05/ia_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《上帝通过耶利米给我们的话》</name>
+		<url>http://download.jw.org/files/media_books/fc/jr_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《向伟大的导师学习》</name>
+		<url>http://download.jw.org/files/media_books/d0/lr_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《常在上帝的爱里》</name>
+		<url>http://download.jw.org/files/media_books/7f/lv_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《我的圣经故事书》</name>
+		<url>http://download.jw.org/files/media_books/cc/my_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《歌颂耶和华》</name>
+		<url>http://download.jw.org/files/media_books/be/sn_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《歌颂耶和华》简化和弦活页乐谱</name>
+		<url>http://download.jw.org/files/media_books/4f/snsm_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《歌颂耶和华》活页旋律数字简谱</name>
+		<url>http://download.jw.org/files/media_books/ef/snsmn_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《歌颂耶和华》（大字本） - 汉语拼音</name>
+		<url>http://download.jw.org/files/media_books/72/snlp_s-Pi_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《歌颂耶和华》（大字本） - 粤语拼音</name>
+		<url>http://download.jw.org/files/media_books/9a/snlp_s-Csl_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《青年人所提出的问题——有实效的答案》第1册</name>
+		<url>http://download.jw.org/files/media_books/82/yp1_CHS.pdf</url>
+	</book>
+	<book>
+		<name>《青年人所提出的问题——有实效的答案》第2册</name>
+		<url>http://download.jw.org/files/media_books/84/yp2_CHS.pdf</url>
+	</book>
+</language>
 </root>
