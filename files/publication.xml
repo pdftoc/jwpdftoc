@@ -378,4 +378,90 @@
 		<url>http://download.jw.org/files/media_books/84/yp2_CHS.pdf</url>
 	</book>
 </language>
+<language name="漢語（繁體字）/Chinese (Traditional)" lang="zh-hant">
+	<book>
+		<name>《聖經新世界譯本》</name>
+		<url>http://download.jw.org/files/media_bible/0d/bi12_CH.pdf</url>
+	</book>
+	<book>
+		<name>《神聖教育使你得益——傳道訓練班課本》</name>
+		<url>http://download.jw.org/files/media_books/f7/be_CH.pdf</url>
+	</book>
+	<book>
+		<name>《辨明聖經的真理》</name>
+		<url>http://download.jw.org/files/media_books/48/bh_CH.pdf</url>
+	</book>
+	<book>
+		<name>《辨明聖經的真理》（大字本） - 粵語拼音</name>
+		<url>http://download.jw.org/files/media_books/3c/bhlp_s-Csl_CH.pdf</url>
+	</book>
+	<book>
+		<name>《為上帝的王國徹底作見證》</name>
+		<url>http://download.jw.org/files/media_books/e9/bt_CH.pdf</url>
+	</book>
+	<book>
+		<name>《來跟隨我吧》</name>
+		<url>http://download.jw.org/files/media_books/97/cf_CH.pdf</url>
+	</book>
+	<book>
+		<name>《親近耶和華》</name>
+		<url>http://download.jw.org/files/media_books/a5/cl_CH.pdf</url>
+	</book>
+	<book>
+		<name>《家庭幸福的秘訣》</name>
+		<url>http://download.jw.org/files/media_books/86/fy_CH.pdf</url>
+	</book>
+	<book>
+		<name>《有史以來最偉大的人物》</name>
+		<url>http://download.jw.org/files/media_books/41/gt_CH.pdf</url>
+	</book>
+	<book>
+		<name>《信心的榜樣》</name>
+		<url>http://download.jw.org/files/media_books/93/ia_CH.pdf</url>
+	</book>
+	<book>
+		<name>《上帝通過耶利米給我們的話》</name>
+		<url>http://download.jw.org/files/media_books/cf/jr_CH.pdf</url>
+	</book>
+	<book>
+		<name>《向偉大的導師學習》</name>
+		<url>http://download.jw.org/files/media_books/8d/lr_CH.pdf</url>
+	</book>
+	<book>
+		<name>《常在上帝的愛裏》</name>
+		<url>http://download.jw.org/files/media_books/7c/lv_CH.pdf</url>
+	</book>
+	<book>
+		<name>《我的聖經故事書》</name>
+		<url>http://download.jw.org/files/media_books/34/my_CH.pdf</url>
+	</book>
+	<book>
+		<name>《我的聖經故事書》 - （注音）</name>
+		<url>http://download.jw.org/files/media_books/17/my_s-Pz_CH.pdf</url>
+	</book>
+	<book>
+		<name>《歌頌耶和華》</name>
+		<url>http://download.jw.org/files/media_books/0e/sn_CH.pdf</url>
+	</book>
+	<book>
+		<name>《歌頌耶和華》簡化和弦活頁樂譜</name>
+		<url>http://download.jw.org/files/media_books/09/snsm_CH.pdf</url>
+	</book>
+	<book>
+		<name>《歌頌耶和華》活頁旋律數字簡譜</name>
+		<url>http://download.jw.org/files/media_books/85/snsmn_CH.pdf</url>
+	</book>
+	<book>
+		<name>《歌頌耶和華》（大字本） - 粵語拼音</name>
+		<url>http://download.jw.org/files/media_books/dc/snlp_s-Csl_CH.pdf</url>
+	</book>
+	<book>
+		<name>《青年人所提出的問題——有實效的答案》第1册</name>
+		<url>http://download.jw.org/files/media_books/58/yp1_CH.pdf</url>
+	</book>
+	<book>
+		<name>《青年人所提出的問題——有實效的答案》第2册</name>
+		<url>http://download.jw.org/files/media_books/54/yp2_CH.pdf</url>
+	</book>
+</language>
 </root>
