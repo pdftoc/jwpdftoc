@@ -1,1255 +1,1255 @@
 Foreword/8
 Names and Order of the Books/9
 Genesis/10
-	1/10
-	2/11
-	3/12
-	4/13
-	5/15
-	6/16
-	7/17
-	8/18
-	9/19
-	10/20
-	11/21
-	12/23
-	13/23
-	14/24
-	15/25
-	16/26
-	17/27
-	18/28
-	19/30
-	20/32
-	21/33
-	22/34
-	23/35
-	24/36
-	25/39
-	26/40
-	27/42
-	28/44
-	29/45
-	30/47
-	31/49
-	32/51
-	33/53
-	34/54
-	35/55
-	36/56
-	37/58
-	38/60
-	39/61
-	40/62
-	41/64
-	42/66
-	43/68
-	44/70
-	45/71
-	46/72
-	47/74
-	48/76
-	49/77
-	50/78
+	Genesis 1/10
+	Genesis 2/11
+	Genesis 3/12
+	Genesis 4/13
+	Genesis 5/15
+	Genesis 6/16
+	Genesis 7/17
+	Genesis 8/18
+	Genesis 9/19
+	Genesis 10/20
+	Genesis 11/21
+	Genesis 12/23
+	Genesis 13/23
+	Genesis 14/24
+	Genesis 15/25
+	Genesis 16/26
+	Genesis 17/27
+	Genesis 18/28
+	Genesis 19/30
+	Genesis 20/32
+	Genesis 21/33
+	Genesis 22/34
+	Genesis 23/35
+	Genesis 24/36
+	Genesis 25/39
+	Genesis 26/40
+	Genesis 27/42
+	Genesis 28/44
+	Genesis 29/45
+	Genesis 30/47
+	Genesis 31/49
+	Genesis 32/51
+	Genesis 33/53
+	Genesis 34/54
+	Genesis 35/55
+	Genesis 36/56
+	Genesis 37/58
+	Genesis 38/60
+	Genesis 39/61
+	Genesis 40/62
+	Genesis 41/64
+	Genesis 42/66
+	Genesis 43/68
+	Genesis 44/70
+	Genesis 45/71
+	Genesis 46/72
+	Genesis 47/74
+	Genesis 48/76
+	Genesis 49/77
+	Genesis 50/78
 Exodus/80
-	1/80
-	2/80
-	3/82
-	4/83
-	5/85
-	6/86
-	7/87
-	8/88
-	9/90
-	10/92
-	11/93
-	12/94
-	13/96
-	14/97
-	15/99
-	16/101
-	17/103
-	18/103
-	19/105
-	20/106
-	21/107
-	22/109
-	23/110
-	24/112
-	25/113
-	26/114
-	27/116
-	28/117
-	29/119
-	30/121
-	31/123
-	32/123
-	33/125
-	34/126
-	35/128
-	36/130
-	37/131
-	38/133
-	39/134
-	40/136
+	Exodus 1/80
+	Exodus 2/80
+	Exodus 3/82
+	Exodus 4/83
+	Exodus 5/85
+	Exodus 6/86
+	Exodus 7/87
+	Exodus 8/88
+	Exodus 9/90
+	Exodus 10/92
+	Exodus 11/93
+	Exodus 12/94
+	Exodus 13/96
+	Exodus 14/97
+	Exodus 15/99
+	Exodus 16/101
+	Exodus 17/103
+	Exodus 18/103
+	Exodus 19/105
+	Exodus 20/106
+	Exodus 21/107
+	Exodus 22/109
+	Exodus 23/110
+	Exodus 24/112
+	Exodus 25/113
+	Exodus 26/114
+	Exodus 27/116
+	Exodus 28/117
+	Exodus 29/119
+	Exodus 30/121
+	Exodus 31/123
+	Exodus 32/123
+	Exodus 33/125
+	Exodus 34/126
+	Exodus 35/128
+	Exodus 36/130
+	Exodus 37/131
+	Exodus 38/133
+	Exodus 39/134
+	Exodus 40/136
 Leviticus/138
-	1/138
-	2/138
-	3/139
-	4/140
-	5/142
-	6/143
-	7/145
-	8/146
-	9/148
-	10/149
-	11/150
-	12/152
-	13/153
-	14/156
-	15/158
-	16/160
-	17/162
-	18/163
-	19/164
-	20/166
-	21/168
-	22/169
-	23/170
-	24/172
-	25/173
-	26/176
-	27/178
+	Leviticus 1/138
+	Leviticus 2/138
+	Leviticus 3/139
+	Leviticus 4/140
+	Leviticus 5/142
+	Leviticus 6/143
+	Leviticus 7/145
+	Leviticus 8/146
+	Leviticus 9/148
+	Leviticus 10/149
+	Leviticus 11/150
+	Leviticus 12/152
+	Leviticus 13/153
+	Leviticus 14/156
+	Leviticus 15/158
+	Leviticus 16/160
+	Leviticus 17/162
+	Leviticus 18/163
+	Leviticus 19/164
+	Leviticus 20/166
+	Leviticus 21/168
+	Leviticus 22/169
+	Leviticus 23/170
+	Leviticus 24/172
+	Leviticus 25/173
+	Leviticus 26/176
+	Leviticus 27/178
 Numbers/180
-	1/180
-	2/182
-	3/184
-	4/186
-	5/188
-	6/190
-	7/191
-	8/194
-	9/195
-	10/197
-	11/198
-	12/200
-	13/201
-	14/202
-	15/204
-	16/206
-	17/208
-	18/209
-	19/211
-	20/212
-	21/213
-	22/215
-	23/217
-	24/219
-	25/220
-	26/221
-	27/224
-	28/225
-	29/226
-	30/228
-	31/229
-	32/231
-	33/233
-	34/235
-	35/236
-	36/237
+	Numbers 1/180
+	Numbers 2/182
+	Numbers 3/184
+	Numbers 4/186
+	Numbers 5/188
+	Numbers 6/190
+	Numbers 7/191
+	Numbers 8/194
+	Numbers 9/195
+	Numbers 10/197
+	Numbers 11/198
+	Numbers 12/200
+	Numbers 13/201
+	Numbers 14/202
+	Numbers 15/204
+	Numbers 16/206
+	Numbers 17/208
+	Numbers 18/209
+	Numbers 19/211
+	Numbers 20/212
+	Numbers 21/213
+	Numbers 22/215
+	Numbers 23/217
+	Numbers 24/219
+	Numbers 25/220
+	Numbers 26/221
+	Numbers 27/224
+	Numbers 28/225
+	Numbers 29/226
+	Numbers 30/228
+	Numbers 31/229
+	Numbers 32/231
+	Numbers 33/233
+	Numbers 34/235
+	Numbers 35/236
+	Numbers 36/237
 Deuteronomy/238
-	1/238
-	2/240
-	3/242
-	4/244
-	5/246
-	6/248
-	7/249
-	8/251
-	9/252
-	10/254
-	11/255
-	12/256
-	13/258
-	14/259
-	15/260
-	16/262
-	17/263
-	18/264
-	19/265
-	20/266
-	21/267
-	22/268
-	23/270
-	24/271
-	25/272
-	26/273
-	27/275
-	28/276
-	29/279
-	30/281
-	31/282
-	32/284
-	33/287
-	34/289
+	Deuteronomy 1/238
+	Deuteronomy 2/240
+	Deuteronomy 3/242
+	Deuteronomy 4/244
+	Deuteronomy 5/246
+	Deuteronomy 6/248
+	Deuteronomy 7/249
+	Deuteronomy 8/251
+	Deuteronomy 9/252
+	Deuteronomy 10/254
+	Deuteronomy 11/255
+	Deuteronomy 12/256
+	Deuteronomy 13/258
+	Deuteronomy 14/259
+	Deuteronomy 15/260
+	Deuteronomy 16/262
+	Deuteronomy 17/263
+	Deuteronomy 18/264
+	Deuteronomy 19/265
+	Deuteronomy 20/266
+	Deuteronomy 21/267
+	Deuteronomy 22/268
+	Deuteronomy 23/270
+	Deuteronomy 24/271
+	Deuteronomy 25/272
+	Deuteronomy 26/273
+	Deuteronomy 27/275
+	Deuteronomy 28/276
+	Deuteronomy 29/279
+	Deuteronomy 30/281
+	Deuteronomy 31/282
+	Deuteronomy 32/284
+	Deuteronomy 33/287
+	Deuteronomy 34/289
 Joshua/290
-	1/290
-	2/291
-	3/292
-	4/293
-	5/295
-	6/296
-	7/297
-	8/299
-	9/301
-	10/302
-	11/305
-	12/306
-	13/307
-	14/309
-	15/310
-	16/312
-	17/312
-	18/313
-	19/315
-	20/317
-	21/317
-	22/319
-	23/322
-	24/323
+	Joshua 1/290
+	Joshua 2/291
+	Joshua 3/292
+	Joshua 4/293
+	Joshua 5/295
+	Joshua 6/296
+	Joshua 7/297
+	Joshua 8/299
+	Joshua 9/301
+	Joshua 10/302
+	Joshua 11/305
+	Joshua 12/306
+	Joshua 13/307
+	Joshua 14/309
+	Joshua 15/310
+	Joshua 16/312
+	Joshua 17/312
+	Joshua 18/313
+	Joshua 19/315
+	Joshua 20/317
+	Joshua 21/317
+	Joshua 22/319
+	Joshua 23/322
+	Joshua 24/323
 Judges/325
-	1/325
-	2/326
-	3/328
-	4/329
-	5/331
-	6/333
-	7/335
-	8/337
-	9/339
-	10/342
-	11/342
-	12/345
-	13/346
-	14/347
-	15/348
-	16/349
-	17/351
-	18/352
-	19/354
-	20/356
-	21/358
+	Judges 1/325
+	Judges 2/326
+	Judges 3/328
+	Judges 4/329
+	Judges 5/331
+	Judges 6/333
+	Judges 7/335
+	Judges 8/337
+	Judges 9/339
+	Judges 10/342
+	Judges 11/342
+	Judges 12/345
+	Judges 13/346
+	Judges 14/347
+	Judges 15/348
+	Judges 16/349
+	Judges 17/351
+	Judges 18/352
+	Judges 19/354
+	Judges 20/356
+	Judges 21/358
 Ruth/360
-	1/360
-	2/361
-	3/363
-	4/363
+	Ruth 1/360
+	Ruth 2/361
+	Ruth 3/363
+	Ruth 4/363
 1 Samuel/365
-	1/365
-	2/366
-	3/369
-	4/370
-	5/371
-	6/372
-	7/373
-	8/374
-	9/375
-	10/377
-	11/378
-	12/379
-	13/380
-	14/382
-	15/385
-	16/387
-	17/388
-	18/391
-	19/393
-	20/394
-	21/396
-	22/397
-	23/399
-	24/400
-	25/401
-	26/404
-	27/405
-	28/406
-	29/408
-	30/408
-	31/410
+	1 Samuel 1/365
+	1 Samuel 2/366
+	1 Samuel 3/369
+	1 Samuel 4/370
+	1 Samuel 5/371
+	1 Samuel 6/372
+	1 Samuel 7/373
+	1 Samuel 8/374
+	1 Samuel 9/375
+	1 Samuel 10/377
+	1 Samuel 11/378
+	1 Samuel 12/379
+	1 Samuel 13/380
+	1 Samuel 14/382
+	1 Samuel 15/385
+	1 Samuel 16/387
+	1 Samuel 17/388
+	1 Samuel 18/391
+	1 Samuel 19/393
+	1 Samuel 20/394
+	1 Samuel 21/396
+	1 Samuel 22/397
+	1 Samuel 23/399
+	1 Samuel 24/400
+	1 Samuel 25/401
+	1 Samuel 26/404
+	1 Samuel 27/405
+	1 Samuel 28/406
+	1 Samuel 29/408
+	1 Samuel 30/408
+	1 Samuel 31/410
 2 Samuel/411
-	1/411
-	2/412
-	3/414
-	4/416
-	5/417
-	6/418
-	7/420
-	8/421
-	9/422
-	10/423
-	11/424
-	12/426
-	13/427
-	14/430
-	15/431
-	16/434
-	17/435
-	18/437
-	19/439
-	20/441
-	21/443
-	22/444
-	23/447
-	24/449
+	2 Samuel 1/411
+	2 Samuel 2/412
+	2 Samuel 3/414
+	2 Samuel 4/416
+	2 Samuel 5/417
+	2 Samuel 6/418
+	2 Samuel 7/420
+	2 Samuel 8/421
+	2 Samuel 9/422
+	2 Samuel 10/423
+	2 Samuel 11/424
+	2 Samuel 12/426
+	2 Samuel 13/427
+	2 Samuel 14/430
+	2 Samuel 15/431
+	2 Samuel 16/434
+	2 Samuel 17/435
+	2 Samuel 18/437
+	2 Samuel 19/439
+	2 Samuel 20/441
+	2 Samuel 21/443
+	2 Samuel 22/444
+	2 Samuel 23/447
+	2 Samuel 24/449
 1 Kings/450
-	1/450
-	2/453
-	3/456
-	4/457
-	5/459
-	6/460
-	7/462
-	8/464
-	9/468
-	10/470
-	11/472
-	12/474
-	13/476
-	14/478
-	15/480
-	16/482
-	17/483
-	18/485
-	19/487
-	20/488
-	21/491
-	22/493
+	1 Kings 1/450
+	1 Kings 2/453
+	1 Kings 3/456
+	1 Kings 4/457
+	1 Kings 5/459
+	1 Kings 6/460
+	1 Kings 7/462
+	1 Kings 8/464
+	1 Kings 9/468
+	1 Kings 10/470
+	1 Kings 11/472
+	1 Kings 12/474
+	1 Kings 13/476
+	1 Kings 14/478
+	1 Kings 15/480
+	1 Kings 16/482
+	1 Kings 17/483
+	1 Kings 18/485
+	1 Kings 19/487
+	1 Kings 20/488
+	1 Kings 21/491
+	1 Kings 22/493
 2 Kings/496
-	1/496
-	2/497
-	3/498
-	4/500
-	5/502
-	6/504
-	7/506
-	8/507
-	9/509
-	10/511
-	11/513
-	12/515
-	13/516
-	14/517
-	15/519
-	16/521
-	17/522
-	18/524
-	19/527
-	20/529
-	21/530
-	22/532
-	23/533
-	24/536
-	25/537
+	2 Kings 1/496
+	2 Kings 2/497
+	2 Kings 3/498
+	2 Kings 4/500
+	2 Kings 5/502
+	2 Kings 6/504
+	2 Kings 7/506
+	2 Kings 8/507
+	2 Kings 9/509
+	2 Kings 10/511
+	2 Kings 11/513
+	2 Kings 12/515
+	2 Kings 13/516
+	2 Kings 14/517
+	2 Kings 15/519
+	2 Kings 16/521
+	2 Kings 17/522
+	2 Kings 18/524
+	2 Kings 19/527
+	2 Kings 20/529
+	2 Kings 21/530
+	2 Kings 22/532
+	2 Kings 23/533
+	2 Kings 24/536
+	2 Kings 25/537
 1 Chronicles/539
-	1/539
-	2/540
-	3/543
-	4/543
-	5/545
-	6/546
-	7/549
-	8/551
-	9/552
-	10/554
-	11/554
-	12/556
-	13/558
-	14/559
-	15/559
-	16/561
-	17/563
-	18/564
-	19/565
-	20/566
-	21/567
-	22/568
-	23/569
-	24/571
-	25/572
-	26/573
-	27/574
-	28/575
-	29/577
+	1 Chronicles 1/539
+	1 Chronicles 2/540
+	1 Chronicles 3/543
+	1 Chronicles 4/543
+	1 Chronicles 5/545
+	1 Chronicles 6/546
+	1 Chronicles 7/549
+	1 Chronicles 8/551
+	1 Chronicles 9/552
+	1 Chronicles 10/554
+	1 Chronicles 11/554
+	1 Chronicles 12/556
+	1 Chronicles 13/558
+	1 Chronicles 14/559
+	1 Chronicles 15/559
+	1 Chronicles 16/561
+	1 Chronicles 17/563
+	1 Chronicles 18/564
+	1 Chronicles 19/565
+	1 Chronicles 20/566
+	1 Chronicles 21/567
+	1 Chronicles 22/568
+	1 Chronicles 23/569
+	1 Chronicles 24/571
+	1 Chronicles 25/572
+	1 Chronicles 26/573
+	1 Chronicles 27/574
+	1 Chronicles 28/575
+	1 Chronicles 29/577
 2 Chronicles/579
-	1/579
-	2/580
-	3/581
-	4/582
-	5/583
-	6/584
-	7/586
-	8/588
-	9/589
-	10/590
-	11/592
-	12/592
-	13/593
-	14/595
-	15/596
-	16/597
-	17/597
-	18/598
-	19/600
-	20/601
-	21/603
-	22/604
-	23/605
-	24/607
-	25/608
-	26/610
-	27/611
-	28/612
-	29/614
-	30/616
-	31/617
-	32/619
-	33/621
-	34/622
-	35/625
-	36/626
+	2 Chronicles 1/579
+	2 Chronicles 2/580
+	2 Chronicles 3/581
+	2 Chronicles 4/582
+	2 Chronicles 5/583
+	2 Chronicles 6/584
+	2 Chronicles 7/586
+	2 Chronicles 8/588
+	2 Chronicles 9/589
+	2 Chronicles 10/590
+	2 Chronicles 11/592
+	2 Chronicles 12/592
+	2 Chronicles 13/593
+	2 Chronicles 14/595
+	2 Chronicles 15/596
+	2 Chronicles 16/597
+	2 Chronicles 17/597
+	2 Chronicles 18/598
+	2 Chronicles 19/600
+	2 Chronicles 20/601
+	2 Chronicles 21/603
+	2 Chronicles 22/604
+	2 Chronicles 23/605
+	2 Chronicles 24/607
+	2 Chronicles 25/608
+	2 Chronicles 26/610
+	2 Chronicles 27/611
+	2 Chronicles 28/612
+	2 Chronicles 29/614
+	2 Chronicles 30/616
+	2 Chronicles 31/617
+	2 Chronicles 32/619
+	2 Chronicles 33/621
+	2 Chronicles 34/622
+	2 Chronicles 35/625
+	2 Chronicles 36/626
 Ezra/628
-	1/628
-	2/629
-	3/630
-	4/631
-	5/633
-	6/634
-	7/635
-	8/637
-	9/638
-	10/639
+	Ezra 1/628
+	Ezra 2/629
+	Ezra 3/630
+	Ezra 4/631
+	Ezra 5/633
+	Ezra 6/634
+	Ezra 7/635
+	Ezra 8/637
+	Ezra 9/638
+	Ezra 10/639
 Nehemiah/641
-	1/641
-	2/642
-	3/643
-	4/644
-	5/646
-	6/648
-	7/649
-	8/651
-	9/652
-	10/655
-	11/656
-	12/658
-	13/660
+	Nehemiah 1/641
+	Nehemiah 2/642
+	Nehemiah 3/643
+	Nehemiah 4/644
+	Nehemiah 5/646
+	Nehemiah 6/648
+	Nehemiah 7/649
+	Nehemiah 8/651
+	Nehemiah 9/652
+	Nehemiah 10/655
+	Nehemiah 11/656
+	Nehemiah 12/658
+	Nehemiah 13/660
 Esther/662
-	1/662
-	2/663
-	3/664
-	4/665
-	5/666
-	6/667
-	7/668
-	8/669
-	9/670
-	10/672
+	Esther 1/662
+	Esther 2/663
+	Esther 3/664
+	Esther 4/665
+	Esther 5/666
+	Esther 6/667
+	Esther 7/668
+	Esther 8/669
+	Esther 9/670
+	Esther 10/672
 Job/672
-	1/672
-	2/673
-	3/674
-	4/675
-	5/676
-	6/677
-	7/678
-	8/679
-	9/680
-	10/682
-	11/683
-	12/684
-	13/685
-	14/686
-	15/687
-	16/688
-	17/689
-	18/690
-	19/691
-	20/692
-	21/693
-	22/695
-	23/696
-	24/696
-	25/698
-	26/698
-	27/699
-	28/700
-	29/701
-	30/702
-	31/703
-	32/705
-	33/706
-	34/707
-	35/709
-	36/709
-	37/711
-	38/712
-	39/713
-	40/715
-	41/716
-	42/717
+	Job 1/672
+	Job 2/673
+	Job 3/674
+	Job 4/675
+	Job 5/676
+	Job 6/677
+	Job 7/678
+	Job 8/679
+	Job 9/680
+	Job 10/682
+	Job 11/683
+	Job 12/684
+	Job 13/685
+	Job 14/686
+	Job 15/687
+	Job 16/688
+	Job 17/689
+	Job 18/690
+	Job 19/691
+	Job 20/692
+	Job 21/693
+	Job 22/695
+	Job 23/696
+	Job 24/696
+	Job 25/698
+	Job 26/698
+	Job 27/699
+	Job 28/700
+	Job 29/701
+	Job 30/702
+	Job 31/703
+	Job 32/705
+	Job 33/706
+	Job 34/707
+	Job 35/709
+	Job 36/709
+	Job 37/711
+	Job 38/712
+	Job 39/713
+	Job 40/715
+	Job 41/716
+	Job 42/717
 Psalms/718
-	1/718
-	2/718
-	3/719
-	4/719
-	5/720
-	6/720
-	7/721
-	8/722
-	9/722
-	10/723
-	11/724
-	12/725
-	13/725
-	14/725
-	15/726
-	16/726
-	17/727
-	18/728
-	19/730
-	20/731
-	21/731
-	22/732
-	23/733
-	24/734
-	25/734
-	26/735
-	27/736
-	28/737
-	29/737
-	30/738
-	31/738
-	32/740
-	33/740
-	34/741
-	35/743
-	36/744
-	37/745
-	38/747
-	39/748
-	40/748
-	41/750
-	42/750
-	43/751
-	44/751
-	45/753
-	46/754
-	47/754
-	48/755
-	49/755
-	50/756
-	51/757
-	52/758
-	53/759
-	54/759
-	55/760
-	56/761
-	57/761
-	58/762
-	59/763
-	60/764
-	61/764
-	62/765
-	63/765
-	64/766
-	65/766
-	66/767
-	67/768
-	68/768
-	69/770
-	70/772
-	71/772
-	72/774
-	73/775
-	74/776
-	75/777
-	76/778
-	77/778
-	78/779
-	79/782
-	80/783
-	81/784
-	82/785
-	83/785
-	84/786
-	85/787
-	86/787
-	87/788
-	88/788
-	89/789
-	90/792
-	91/793
-	92/794
-	93/794
-	94/795
-	95/796
-	96/796
-	97/797
-	98/797
-	99/798
-	100/798
-	101/799
-	102/799
-	103/800
-	104/801
-	105/803
-	106/805
-	107/807
-	108/809
-	109/810
-	110/811
-	111/812
-	112/812
-	113/813
-	114/814
-	115/814
-	116/815
-	117/815
-	118/816
-	119/817
-	120/825
-	121/825
-	122/825
-	123/826
-	124/826
-	125/826
-	126/826
-	127/837
-	128/837
-	129/837
-	130/828
-	131/828
-	132/828
-	133/829
-	134/829
-	135/829
-	136/830
-	137/831
-	138/832
-	139/832
-	140/833
-	141/834
-	142/835
-	143/835
-	144/836
-	145/837
-	146/838
-	147/838
-	148/839
-	149/840
-	150/840
+	Psalms 1/718
+	Psalms 2/718
+	Psalms 3/719
+	Psalms 4/719
+	Psalms 5/720
+	Psalms 6/720
+	Psalms 7/721
+	Psalms 8/722
+	Psalms 9/722
+	Psalms 10/723
+	Psalms 11/724
+	Psalms 12/725
+	Psalms 13/725
+	Psalms 14/725
+	Psalms 15/726
+	Psalms 16/726
+	Psalms 17/727
+	Psalms 18/728
+	Psalms 19/730
+	Psalms 20/731
+	Psalms 21/731
+	Psalms 22/732
+	Psalms 23/733
+	Psalms 24/734
+	Psalms 25/734
+	Psalms 26/735
+	Psalms 27/736
+	Psalms 28/737
+	Psalms 29/737
+	Psalms 30/738
+	Psalms 31/738
+	Psalms 32/740
+	Psalms 33/740
+	Psalms 34/741
+	Psalms 35/743
+	Psalms 36/744
+	Psalms 37/745
+	Psalms 38/747
+	Psalms 39/748
+	Psalms 40/748
+	Psalms 41/750
+	Psalms 42/750
+	Psalms 43/751
+	Psalms 44/751
+	Psalms 45/753
+	Psalms 46/754
+	Psalms 47/754
+	Psalms 48/755
+	Psalms 49/755
+	Psalms 50/756
+	Psalms 51/757
+	Psalms 52/758
+	Psalms 53/759
+	Psalms 54/759
+	Psalms 55/760
+	Psalms 56/761
+	Psalms 57/761
+	Psalms 58/762
+	Psalms 59/763
+	Psalms 60/764
+	Psalms 61/764
+	Psalms 62/765
+	Psalms 63/765
+	Psalms 64/766
+	Psalms 65/766
+	Psalms 66/767
+	Psalms 67/768
+	Psalms 68/768
+	Psalms 69/770
+	Psalms 70/772
+	Psalms 71/772
+	Psalms 72/774
+	Psalms 73/775
+	Psalms 74/776
+	Psalms 75/777
+	Psalms 76/778
+	Psalms 77/778
+	Psalms 78/779
+	Psalms 79/782
+	Psalms 80/783
+	Psalms 81/784
+	Psalms 82/785
+	Psalms 83/785
+	Psalms 84/786
+	Psalms 85/787
+	Psalms 86/787
+	Psalms 87/788
+	Psalms 88/788
+	Psalms 89/789
+	Psalms 90/792
+	Psalms 91/793
+	Psalms 92/794
+	Psalms 93/794
+	Psalms 94/795
+	Psalms 95/796
+	Psalms 96/796
+	Psalms 97/797
+	Psalms 98/797
+	Psalms 99/798
+	Psalms 100/798
+	Psalms 101/799
+	Psalms 102/799
+	Psalms 103/800
+	Psalms 104/801
+	Psalms 105/803
+	Psalms 106/805
+	Psalms 107/807
+	Psalms 108/809
+	Psalms 109/810
+	Psalms 110/811
+	Psalms 111/812
+	Psalms 112/812
+	Psalms 113/813
+	Psalms 114/814
+	Psalms 115/814
+	Psalms 116/815
+	Psalms 117/815
+	Psalms 118/816
+	Psalms 119/817
+	Psalms 120/825
+	Psalms 121/825
+	Psalms 122/825
+	Psalms 123/826
+	Psalms 124/826
+	Psalms 125/826
+	Psalms 126/826
+	Psalms 127/837
+	Psalms 128/837
+	Psalms 129/837
+	Psalms 130/828
+	Psalms 131/828
+	Psalms 132/828
+	Psalms 133/829
+	Psalms 134/829
+	Psalms 135/829
+	Psalms 136/830
+	Psalms 137/831
+	Psalms 138/832
+	Psalms 139/832
+	Psalms 140/833
+	Psalms 141/834
+	Psalms 142/835
+	Psalms 143/835
+	Psalms 144/836
+	Psalms 145/837
+	Psalms 146/838
+	Psalms 147/838
+	Psalms 148/839
+	Psalms 149/840
+	Psalms 150/840
 Proverbs/841
-	1/841
-	2/842
-	3/842
-	4/844
-	5/844
-	6/845
-	7/846
-	8/847
-	9/848
-	10/849
-	11/850
-	12/852
-	13/853
-	14/854
-	15/855
-	16/856
-	17/858
-	18/859
-	19/860
-	20/861
-	21/862
-	22/863
-	23/864
-	24/865
-	25/867
-	26/868
-	27/869
-	28/870
-	29/871
-	30/872
-	31/873
+	Proverbs 1/841
+	Proverbs 2/842
+	Proverbs 3/842
+	Proverbs 4/844
+	Proverbs 5/844
+	Proverbs 6/845
+	Proverbs 7/846
+	Proverbs 8/847
+	Proverbs 9/848
+	Proverbs 10/849
+	Proverbs 11/850
+	Proverbs 12/852
+	Proverbs 13/853
+	Proverbs 14/854
+	Proverbs 15/855
+	Proverbs 16/856
+	Proverbs 17/858
+	Proverbs 18/859
+	Proverbs 19/860
+	Proverbs 20/861
+	Proverbs 21/862
+	Proverbs 22/863
+	Proverbs 23/864
+	Proverbs 24/865
+	Proverbs 25/867
+	Proverbs 26/868
+	Proverbs 27/869
+	Proverbs 28/870
+	Proverbs 29/871
+	Proverbs 30/872
+	Proverbs 31/873
 Ecclesiastes/875
-	1/875
-	2/875
-	3/877
-	4/878
-	5/879
-	6/880
-	7/880
-	8/882
-	9/883
-	10/884
-	11/884
-	12/885
+	Ecclesiastes 1/875
+	Ecclesiastes 2/875
+	Ecclesiastes 3/877
+	Ecclesiastes 4/878
+	Ecclesiastes 5/879
+	Ecclesiastes 6/880
+	Ecclesiastes 7/880
+	Ecclesiastes 8/882
+	Ecclesiastes 9/883
+	Ecclesiastes 10/884
+	Ecclesiastes 11/884
+	Ecclesiastes 12/885
 Song of Solomon (Canticles)/886
-	1/886
-	2/887
-	3/887
-	4/888
-	5/888
-	6/889
-	7/890
-	8/890
+	Song of Solomon (Canticles) 1/886
+	Song of Solomon (Canticles) 2/887
+	Song of Solomon (Canticles) 3/887
+	Song of Solomon (Canticles) 4/888
+	Song of Solomon (Canticles) 5/888
+	Song of Solomon (Canticles) 6/889
+	Song of Solomon (Canticles) 7/890
+	Song of Solomon (Canticles) 8/890
 Isaiah/891
-	1/891
-	2/893
-	3/894
-	4/895
-	5/895
-	6/897
-	7/898
-	8/899
-	9/900
-	10/901
-	11/903
-	12/904
-	13/905
-	14/906
-	15/907
-	16/908
-	17/909
-	18/910
-	19/910
-	20/911
-	21/912
-	22/913
-	23/914
-	24/915
-	25/916
-	26/917
-	27/918
-	28/919
-	29/920
-	30/922
-	31/924
-	32/924
-	33/925
-	34/927
-	35/928
-	36/928
-	37/929
-	38/932
-	39/933
-	40/934
-	41/935
-	42/937
-	43/938
-	44/940
-	45/941
-	46/943
-	47/944
-	48/945
-	49/946
-	50/948
-	51/948
-	52/950
-	53/951
-	54/952
-	55/953
-	56/954
-	57/954
-	58/955
-	59/957
-	60/958
-	61/599
-	62/960
-	63/961
-	64/962
-	65/963
-	66/964
+	Isaiah 1/891
+	Isaiah 2/893
+	Isaiah 3/894
+	Isaiah 4/895
+	Isaiah 5/895
+	Isaiah 6/897
+	Isaiah 7/898
+	Isaiah 8/899
+	Isaiah 9/900
+	Isaiah 10/901
+	Isaiah 11/903
+	Isaiah 12/904
+	Isaiah 13/905
+	Isaiah 14/906
+	Isaiah 15/907
+	Isaiah 16/908
+	Isaiah 17/909
+	Isaiah 18/910
+	Isaiah 19/910
+	Isaiah 20/911
+	Isaiah 21/912
+	Isaiah 22/913
+	Isaiah 23/914
+	Isaiah 24/915
+	Isaiah 25/916
+	Isaiah 26/917
+	Isaiah 27/918
+	Isaiah 28/919
+	Isaiah 29/920
+	Isaiah 30/922
+	Isaiah 31/924
+	Isaiah 32/924
+	Isaiah 33/925
+	Isaiah 34/927
+	Isaiah 35/928
+	Isaiah 36/928
+	Isaiah 37/929
+	Isaiah 38/932
+	Isaiah 39/933
+	Isaiah 40/934
+	Isaiah 41/935
+	Isaiah 42/937
+	Isaiah 43/938
+	Isaiah 44/940
+	Isaiah 45/941
+	Isaiah 46/943
+	Isaiah 47/944
+	Isaiah 48/945
+	Isaiah 49/946
+	Isaiah 50/948
+	Isaiah 51/948
+	Isaiah 52/950
+	Isaiah 53/951
+	Isaiah 54/952
+	Isaiah 55/953
+	Isaiah 56/954
+	Isaiah 57/954
+	Isaiah 58/955
+	Isaiah 59/957
+	Isaiah 60/958
+	Isaiah 61/599
+	Isaiah 62/960
+	Isaiah 63/961
+	Isaiah 64/962
+	Isaiah 65/963
+	Isaiah 66/964
 Jeremiah/966
-	1/966
-	2/967
-	3/969
-	4/971
-	5/973
-	6/974
-	7/975
-	8/978
-	9/979
-	10/981
-	11/983
-	12/984
-	13/985
-	14/986
-	15/988
-	16/989
-	17/990
-	18/992
-	19/993
-	20/994
-	21/995
-	22/996
-	23/998
-	24/1000
-	25/1001
-	26/1003
-	27/1005
-	28/1006
-	29/1007
-	30/1009
-	31/1010
-	32/1013
-	33/1016
-	34/1017
-	35/1019
-	36/1020
-	37/1022
-	38/1023
-	39/1025
-	40/1026
-	41/1027
-	42/1028
-	43/1030
-	44/1031
-	45/1033
-	46/1033
-	47/1035
-	48/1035
-	49/1038
-	50/1040
-	51/1043
-	52/1047
+	Jeremiah 1/966
+	Jeremiah 2/967
+	Jeremiah 3/969
+	Jeremiah 4/971
+	Jeremiah 5/973
+	Jeremiah 6/974
+	Jeremiah 7/975
+	Jeremiah 8/978
+	Jeremiah 9/979
+	Jeremiah 10/981
+	Jeremiah 11/983
+	Jeremiah 12/984
+	Jeremiah 13/985
+	Jeremiah 14/986
+	Jeremiah 15/988
+	Jeremiah 16/989
+	Jeremiah 17/990
+	Jeremiah 18/992
+	Jeremiah 19/993
+	Jeremiah 20/994
+	Jeremiah 21/995
+	Jeremiah 22/996
+	Jeremiah 23/998
+	Jeremiah 24/1000
+	Jeremiah 25/1001
+	Jeremiah 26/1003
+	Jeremiah 27/1005
+	Jeremiah 28/1006
+	Jeremiah 29/1007
+	Jeremiah 30/1009
+	Jeremiah 31/1010
+	Jeremiah 32/1013
+	Jeremiah 33/1016
+	Jeremiah 34/1017
+	Jeremiah 35/1019
+	Jeremiah 36/1020
+	Jeremiah 37/1022
+	Jeremiah 38/1023
+	Jeremiah 39/1025
+	Jeremiah 40/1026
+	Jeremiah 41/1027
+	Jeremiah 42/1028
+	Jeremiah 43/1030
+	Jeremiah 44/1031
+	Jeremiah 45/1033
+	Jeremiah 46/1033
+	Jeremiah 47/1035
+	Jeremiah 48/1035
+	Jeremiah 49/1038
+	Jeremiah 50/1040
+	Jeremiah 51/1043
+	Jeremiah 52/1047
 Lamentations/1049
-	1/1049
-	2/1051
-	3/1054
-	4/1056
-	5/1058
+	Lamentations 1/1049
+	Lamentations 2/1051
+	Lamentations 3/1054
+	Lamentations 4/1056
+	Lamentations 5/1058
 Ezekiel/1059
-	1/1059
-	2/1061
-	3/1061
-	4/1063
-	5/1064
-	6/1065
-	7/1066
-	8/1067
-	9/1068
-	10/1069
-	11/1070
-	12/1072
-	13/1073
-	14/1075
-	15/1076
-	16/1077
-	17/1080
-	18/1082
-	19/1084
-	20/1084
-	21/1087
-	22/1089
-	23/1091
-	24/1094
-	25/1095
-	26/1096
-	27/1097
-	28/1099
-	29/1101
-	30/1102
-	31/1103
-	32/1105
-	33/1106
-	34/1109
-	35/1110
-	36/1111
-	37/1114
-	38/1115
-	39/1117
-	40/1118
-	41/1121
-	42/1122
-	43/1124
-	44/1125
-	45/1127
-	46/1129
-	47/1130
-	48/1132
+	Ezekiel 1/1059
+	Ezekiel 2/1061
+	Ezekiel 3/1061
+	Ezekiel 4/1063
+	Ezekiel 5/1064
+	Ezekiel 6/1065
+	Ezekiel 7/1066
+	Ezekiel 8/1067
+	Ezekiel 9/1068
+	Ezekiel 10/1069
+	Ezekiel 11/1070
+	Ezekiel 12/1072
+	Ezekiel 13/1073
+	Ezekiel 14/1075
+	Ezekiel 15/1076
+	Ezekiel 16/1077
+	Ezekiel 17/1080
+	Ezekiel 18/1082
+	Ezekiel 19/1084
+	Ezekiel 20/1084
+	Ezekiel 21/1087
+	Ezekiel 22/1089
+	Ezekiel 23/1091
+	Ezekiel 24/1094
+	Ezekiel 25/1095
+	Ezekiel 26/1096
+	Ezekiel 27/1097
+	Ezekiel 28/1099
+	Ezekiel 29/1101
+	Ezekiel 30/1102
+	Ezekiel 31/1103
+	Ezekiel 32/1105
+	Ezekiel 33/1106
+	Ezekiel 34/1109
+	Ezekiel 35/1110
+	Ezekiel 36/1111
+	Ezekiel 37/1114
+	Ezekiel 38/1115
+	Ezekiel 39/1117
+	Ezekiel 40/1118
+	Ezekiel 41/1121
+	Ezekiel 42/1122
+	Ezekiel 43/1124
+	Ezekiel 44/1125
+	Ezekiel 45/1127
+	Ezekiel 46/1129
+	Ezekiel 47/1130
+	Ezekiel 48/1132
 Daniel/1134
-	1/1134
-	2/1135
-	3/1138
-	4/1140
-	5/1142
-	6/1144
-	7/1146
-	8/1148
-	9/1150
-	10/1151
-	11/1153
-	12/1156
+	Daniel 1/1134
+	Daniel 2/1135
+	Daniel 3/1138
+	Daniel 4/1140
+	Daniel 5/1142
+	Daniel 6/1144
+	Daniel 7/1146
+	Daniel 8/1148
+	Daniel 9/1150
+	Daniel 10/1151
+	Daniel 11/1153
+	Daniel 12/1156
 Hosea/1157
-	1/1157
-	2/1157
-	3/1159
-	4/1159
-	5/1160
-	6/1161
-	7/1161
-	8/1162
-	9/1163
-	10/1164
-	11/1164
-	12/1165
-	13/1166
-	14/1167
+	Hosea 1/1157
+	Hosea 2/1157
+	Hosea 3/1159
+	Hosea 4/1159
+	Hosea 5/1160
+	Hosea 6/1161
+	Hosea 7/1161
+	Hosea 8/1162
+	Hosea 9/1163
+	Hosea 10/1164
+	Hosea 11/1164
+	Hosea 12/1165
+	Hosea 13/1166
+	Hosea 14/1167
 Joel/1167
-	1/1167
-	2/1168
-	3/1170
+	Joel 1/1167
+	Joel 2/1168
+	Joel 3/1170
 Amos/1171
-	1/1171
-	2/1172
-	3/1173
-	4/1174
-	5/1175
-	6/1176
-	7/1177
-	8/1178
-	9/1179
+	Amos 1/1171
+	Amos 2/1172
+	Amos 3/1173
+	Amos 4/1174
+	Amos 5/1175
+	Amos 6/1176
+	Amos 7/1177
+	Amos 8/1178
+	Amos 9/1179
 Obadiah/1180
 Jonah/1181
-	1/1181
-	2/1182
-	3/1182
-	4/1183
+	Jonah 1/1181
+	Jonah 2/1182
+	Jonah 3/1182
+	Jonah 4/1183
 Micah/1184
-	1/1184
-	2/1185
-	3/1186
-	4/1186
-	5/1187
-	6/1188
-	7/1189
+	Micah 1/1184
+	Micah 2/1185
+	Micah 3/1186
+	Micah 4/1186
+	Micah 5/1187
+	Micah 6/1188
+	Micah 7/1189
 Nahum/1190
-	1/1190
-	2/1191
-	3/1192
+	Nahum 1/1190
+	Nahum 2/1191
+	Nahum 3/1192
 Habakkuk/1193
-	1/1193
-	2/1194
-	3/1195
+	Habakkuk 1/1193
+	Habakkuk 2/1194
+	Habakkuk 3/1195
 Zephaniah/1196
-	1/1196
-	2/1197
-	3/1198
+	Zephaniah 1/1196
+	Zephaniah 2/1197
+	Zephaniah 3/1198
 Haggai/1200
-	1/1200
-	2/1201
+	Haggai 1/1200
+	Haggai 2/1201
 Zechariah/1202
-	1/1202
-	2/1203
-	3/1204
-	4/1204
-	5/1205
-	6/1206
-	7/1207
-	8/1207
-	9/1209
-	10/1210
-	11/1211
-	12/1212
-	13/1212
-	14/1213
+	Zechariah 1/1202
+	Zechariah 2/1203
+	Zechariah 3/1204
+	Zechariah 4/1204
+	Zechariah 5/1205
+	Zechariah 6/1206
+	Zechariah 7/1207
+	Zechariah 8/1207
+	Zechariah 9/1209
+	Zechariah 10/1210
+	Zechariah 11/1211
+	Zechariah 12/1212
+	Zechariah 13/1212
+	Zechariah 14/1213
 Malachi/1215
-	1/1215
-	2/1216
-	3/1217
-	4/1218
+	Malachi 1/1215
+	Malachi 2/1216
+	Malachi 3/1217
+	Malachi 4/1218
 Matthew/1219
-	1/1219
-	2/1220
-	3/1221
-	4/1222
-	5/1223
-	6/1225
-	7/1226
-	8/1227
-	9/1228
-	10/1230
-	11/1231
-	12/1233
-	13/1234
-	14/1237
-	15/1238
-	16/1239
-	17/1240
-	18/1241
-	19/1243
-	20/1244
-	21/1245
-	22/1247
-	23/1249
-	24/1250
-	25/1252
-	26/1254
-	27/1256
-	28/1259
+	Matthew 1/1219
+	Matthew 2/1220
+	Matthew 3/1221
+	Matthew 4/1222
+	Matthew 5/1223
+	Matthew 6/1225
+	Matthew 7/1226
+	Matthew 8/1227
+	Matthew 9/1228
+	Matthew 10/1230
+	Matthew 11/1231
+	Matthew 12/1233
+	Matthew 13/1234
+	Matthew 14/1237
+	Matthew 15/1238
+	Matthew 16/1239
+	Matthew 17/1240
+	Matthew 18/1241
+	Matthew 19/1243
+	Matthew 20/1244
+	Matthew 21/1245
+	Matthew 22/1247
+	Matthew 23/1249
+	Matthew 24/1250
+	Matthew 25/1252
+	Matthew 26/1254
+	Matthew 27/1256
+	Matthew 28/1259
 Mark/1260
-	1/1260
-	2/1261
-	3/1262
-	4/1264
-	5/1265
-	6/1267
-	7/1269
-	8/1271
-	9/1272
-	10/1274
-	11/1276
-	12/1277
-	13/1279
-	14/1280
-	15/1283
-	16/1285
+	Mark 1/1260
+	Mark 2/1261
+	Mark 3/1262
+	Mark 4/1264
+	Mark 5/1265
+	Mark 6/1267
+	Mark 7/1269
+	Mark 8/1271
+	Mark 9/1272
+	Mark 10/1274
+	Mark 11/1276
+	Mark 12/1277
+	Mark 13/1279
+	Mark 14/1280
+	Mark 15/1283
+	Mark 16/1285
 Luke/1286
-	1/1286
-	2/1288
-	3/1290
-	4/1292
-	5/1294
-	6/1295
-	7/1297
-	8/1299
-	9/1302
-	10/1304
-	11/1306
-	12/1308
-	13/1310
-	14/1312
-	15/1313
-	16/1315
-	17/1316
-	18/1317
-	19/1319
-	20/1321
-	21/1322
-	22/1324
-	23/1326
-	24/1328
+	Luke 1/1286
+	Luke 2/1288
+	Luke 3/1290
+	Luke 4/1292
+	Luke 5/1294
+	Luke 6/1295
+	Luke 7/1297
+	Luke 8/1299
+	Luke 9/1302
+	Luke 10/1304
+	Luke 11/1306
+	Luke 12/1308
+	Luke 13/1310
+	Luke 14/1312
+	Luke 15/1313
+	Luke 16/1315
+	Luke 17/1316
+	Luke 18/1317
+	Luke 19/1319
+	Luke 20/1321
+	Luke 21/1322
+	Luke 22/1324
+	Luke 23/1326
+	Luke 24/1328
 John/1331
-	1/1331
-	2/1332
-	3/1333
-	4/1334
-	5/1336
-	6/1338
-	7/1340
-	8/1342
-	9/1344
-	10/1346
-	11/1347
-	12/1349
-	13/1351
-	14/1352
-	15/1354
-	16/1355
-	17/1356
-	18/1357
-	19/1359
-	20/1361
-	21/1362
+	John 1/1331
+	John 2/1332
+	John 3/1333
+	John 4/1334
+	John 5/1336
+	John 6/1338
+	John 7/1340
+	John 8/1342
+	John 9/1344
+	John 10/1346
+	John 11/1347
+	John 12/1349
+	John 13/1351
+	John 14/1352
+	John 15/1354
+	John 16/1355
+	John 17/1356
+	John 18/1357
+	John 19/1359
+	John 20/1361
+	John 21/1362
 Acts/1363
-	1/1363
-	2/1365
-	3/1366
-	4/1367
-	5/1369
-	6/1371
-	7/1372
-	8/1374
-	9/1376
-	10/1378
-	11/1379
-	12/1381
-	13/1382
-	14/1384
-	15/1385
-	16/1387
-	17/1389
-	18/1390
-	19/1392
-	20/1393
-	21/1395
-	22/1397
-	23/1398
-	24/1400
-	25/1401
-	26/1402
-	27/1404
-	28/1406
+	Acts 1/1363
+	Acts 2/1365
+	Acts 3/1366
+	Acts 4/1367
+	Acts 5/1369
+	Acts 6/1371
+	Acts 7/1372
+	Acts 8/1374
+	Acts 9/1376
+	Acts 10/1378
+	Acts 11/1379
+	Acts 12/1381
+	Acts 13/1382
+	Acts 14/1384
+	Acts 15/1385
+	Acts 16/1387
+	Acts 17/1389
+	Acts 18/1390
+	Acts 19/1392
+	Acts 20/1393
+	Acts 21/1395
+	Acts 22/1397
+	Acts 23/1398
+	Acts 24/1400
+	Acts 25/1401
+	Acts 26/1402
+	Acts 27/1404
+	Acts 28/1406
 Romans/1407
-	1/1407
-	2/1409
-	3/1410
-	4/1411
-	5/1412
-	6/1413
-	7/1414
-	8/1415
-	9/1417
-	10/1418
-	11/1419
-	12/1421
-	13/1421
-	14/1422
-	15/1423
-	16/1425
+	Romans 1/1407
+	Romans 2/1409
+	Romans 3/1410
+	Romans 4/1411
+	Romans 5/1412
+	Romans 6/1413
+	Romans 7/1414
+	Romans 8/1415
+	Romans 9/1417
+	Romans 10/1418
+	Romans 11/1419
+	Romans 12/1421
+	Romans 13/1421
+	Romans 14/1422
+	Romans 15/1423
+	Romans 16/1425
 1 Corinthians/1426
-	1/1426
-	2/1427
-	3/1428
-	4/1428
-	5/1429
-	6/1430
-	7/1431
-	8/1432
-	9/1433
-	10/1434
-	11/1435
-	12/1437
-	13/1438
-	14/1438
-	15/1440
-	16/1442
+	1 Corinthians 1/1426
+	1 Corinthians 2/1427
+	1 Corinthians 3/1428
+	1 Corinthians 4/1428
+	1 Corinthians 5/1429
+	1 Corinthians 6/1430
+	1 Corinthians 7/1431
+	1 Corinthians 8/1432
+	1 Corinthians 9/1433
+	1 Corinthians 10/1434
+	1 Corinthians 11/1435
+	1 Corinthians 12/1437
+	1 Corinthians 13/1438
+	1 Corinthians 14/1438
+	1 Corinthians 15/1440
+	1 Corinthians 16/1442
 2 Corinthians/1443
-	1/1443
-	2/1444
-	3/1445
-	4/1446
-	5/1446
-	6/1447
-	7/1448
-	8/1449
-	9/1450
-	10/1451
-	11/1452
-	12/1453
-	13/1454
+	2 Corinthians 1/1443
+	2 Corinthians 2/1444
+	2 Corinthians 3/1445
+	2 Corinthians 4/1446
+	2 Corinthians 5/1446
+	2 Corinthians 6/1447
+	2 Corinthians 7/1448
+	2 Corinthians 8/1449
+	2 Corinthians 9/1450
+	2 Corinthians 10/1451
+	2 Corinthians 11/1452
+	2 Corinthians 12/1453
+	2 Corinthians 13/1454
 Galatians/1455
-	1/1455
-	2/1455
-	3/1457
-	4/1458
-	5/1459
-	6/1460
+	Galatians 1/1455
+	Galatians 2/1455
+	Galatians 3/1457
+	Galatians 4/1458
+	Galatians 5/1459
+	Galatians 6/1460
 Ephesians/1461
-	1/1461
-	2/1462
-	3/1463
-	4/1464
-	5/1465
-	6/1466
+	Ephesians 1/1461
+	Ephesians 2/1462
+	Ephesians 3/1463
+	Ephesians 4/1464
+	Ephesians 5/1465
+	Ephesians 6/1466
 Philippians/1467
-	1/1467
-	2/1469
-	3/1470
-	4/1471
+	Philippians 1/1467
+	Philippians 2/1469
+	Philippians 3/1470
+	Philippians 4/1471
 Colossians/1472
-	1/1472
-	2/1473
-	3/1474
-	4/1475
+	Colossians 1/1472
+	Colossians 2/1473
+	Colossians 3/1474
+	Colossians 4/1475
 1 Thessalonians/1476
-	1/1476
-	2/1477
-	3/1478
-	4/1478
-	5/1479
+	1 Thessalonians 1/1476
+	1 Thessalonians 2/1477
+	1 Thessalonians 3/1478
+	1 Thessalonians 4/1478
+	1 Thessalonians 5/1479
 2 Thessalonians/1480
-	1/1480
-	2/1481
-	3/1481
+	2 Thessalonians 1/1480
+	2 Thessalonians 2/1481
+	2 Thessalonians 3/1481
 1 Timothy/1482
-	1/1482
-	2/1483
-	3/1484
-	4/1484
-	5/1485
-	6/1486
+	1 Timothy 1/1482
+	1 Timothy 2/1483
+	1 Timothy 3/1484
+	1 Timothy 4/1484
+	1 Timothy 5/1485
+	1 Timothy 6/1486
 2 Timothy/1487
-	1/1487
-	2/1488
-	3/1489
-	4/1490
+	2 Timothy 1/1487
+	2 Timothy 2/1488
+	2 Timothy 3/1489
+	2 Timothy 4/1490
 Titus/1491
-	1/1491
-	2/1492
-	3/1492
+	Titus 1/1491
+	Titus 2/1492
+	Titus 3/1492
 Philemon/1493
 Hebrews/1494
-	1/1494
-	2/1495
-	3/1496
-	4/1497
-	5/1497
-	6/1498
-	7/1499
-	8/1500
-	9/1501
-	10/1502
-	11/1504
-	12/1506
-	13/1507
+	Hebrews 1/1494
+	Hebrews 2/1495
+	Hebrews 3/1496
+	Hebrews 4/1497
+	Hebrews 5/1497
+	Hebrews 6/1498
+	Hebrews 7/1499
+	Hebrews 8/1500
+	Hebrews 9/1501
+	Hebrews 10/1502
+	Hebrews 11/1504
+	Hebrews 12/1506
+	Hebrews 13/1507
 James/1508
-	1/1508
-	2/1509
-	3/1510
-	4/1511
-	5/1512
+	James 1/1508
+	James 2/1509
+	James 3/1510
+	James 4/1511
+	James 5/1512
 1 Peter/1513
-	1/1513
-	2/1514
-	3/1515
-	4/1516
-	5/1517
+	1 Peter 1/1513
+	1 Peter 2/1514
+	1 Peter 3/1515
+	1 Peter 4/1516
+	1 Peter 5/1517
 2 Peter/1518
-	1/1518
-	2/1519
-	3/1520
+	2 Peter 1/1518
+	2 Peter 2/1519
+	2 Peter 3/1520
 1 John/1521
-	1/1521
-	2/1521
-	3/1523
-	4/1524
-	5/1525
+	1 John 1/1521
+	1 John 2/1521
+	1 John 3/1523
+	1 John 4/1524
+	1 John 5/1525
 2 John/1526
 3 John/1527
 Jude/1527
 Revelation/1529
-	1/1529
-	2/1530
-	3/1532
-	4/1533
-	5/1533
-	6/1534
-	7/1535
-	8/1536
-	9/1537
-	10/1538
-	11/1538
-	12/1539
-	13/1540
-	14/1541
-	15/1542
-	16/1543
-	17/1544
-	18/1545
-	19/1546
-	20/1547
-	21/1548
-	22/1549
+	Revelation 1/1529
+	Revelation 2/1530
+	Revelation 3/1532
+	Revelation 4/1533
+	Revelation 5/1533
+	Revelation 6/1534
+	Revelation 7/1535
+	Revelation 8/1536
+	Revelation 9/1537
+	Revelation 10/1538
+	Revelation 11/1538
+	Revelation 12/1539
+	Revelation 13/1540
+	Revelation 14/1541
+	Revelation 15/1542
+	Revelation 16/1543
+	Revelation 17/1544
+	Revelation 18/1545
+	Revelation 19/1546
+	Revelation 20/1547
+	Revelation 21/1548
+	Revelation 22/1549
 Table of the Books of the Bible/1551
 Bible Words Indexed/1553
 	A/1553
